@@ -190,11 +190,6 @@ width: 100px;
 
 
 
-
-
-
-
-
 @media (max-width:767px)  {
 .container{
 
@@ -210,14 +205,14 @@ width: 100px;
         margin-top:0;
         background-image: url(../imags/Sweet2.jpg);
         background-size: cover;
-        height: calc(100vh);
+        height: calc(150vh);
         width:auto;
         position:relative;
 }
 @media (max-width:767px)  {
     
     .landing{
-        height:calc(80vh);
+        height:calc(100vh);
        
         
     }
