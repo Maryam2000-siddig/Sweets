@@ -312,7 +312,7 @@ hr{
 }
 h3{
 color:var(--secoand-color);
-font-size:26px;
+font-size:27px;
  
 
 
@@ -336,7 +336,7 @@ font-size:26px;
    width: 700px;
    margin-top: 50px;
  margin-bottom:40px;
-    border-radius: 40px;
+    border-radius:50px;
                   
 } 
 form{
