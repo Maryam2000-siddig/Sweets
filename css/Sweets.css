@@ -515,7 +515,7 @@ pre{
  .social i{
     
     padding-left: 50px;
-    font-size: 30px;
+    font-size: 35px;
 }
 /* footer */
 .footer {
@@ -523,7 +523,7 @@ pre{
 color:var(--secoand-color);
 padding: 30px 10px ;
 text-align: center;
-font-size: 25px;
+font-size: 30px;
 
 }
 .footer span{
