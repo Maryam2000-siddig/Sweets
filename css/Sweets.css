@@ -206,76 +206,6 @@ width: 100px;
 
 
 
-
-
-
-
-
-
-
-
-
-
-/*@media (max-width:767px)  {
-    
-    .header nav .toggle-menu{
-        display:block}
- 
-
-nav ul{
-    
-    background-color:var(--main-color);
-    position: absolute;
-    top: 100px;
-    list-style: none;
-    height: 285px;
-    width: 200px;
-    display:flex;
-    flex-wrap: nowrap;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items:flex-start;
-    z-index: 2;
-   
-   
-    
-}
-
-nav ul li{
-    width: 100%;
-    border: 0.5px solid rgba(0, 0, 0, 0.089);
-    padding-top: 5px;
-  
-   
-      
-}
-nav ul li a{
-    text-decoration: none;
-    padding-left: 20px;
-    color:black;
-    transition: 4s;
-   
-}
-   
-nav ul::before{
-  content: " ";
-  border-width: 10px;
-  border-style: solid;
-  border-color: transparent   transparent     rgb(22 13 3 / 71%) transparent;
-  position: absolute;
-  right: 5px;
-  top:-20px;
-}
-ul li a:hover{
-    margin-left: 20px;
-
-}
-  
-
- }*/
-
-/* Start landing */
-
 .landing{
         margin-top:0;
         background-image: url(../imags/Sweet2.jpg);
@@ -363,7 +293,7 @@ hr{
 }
 .card{
     height: 300px;
-    width: 205px;
+    width: 220px;
     border-radius: 40px;
     border: 2px solid  var(--main-color);
   background-color:var(--main-color);
@@ -371,7 +301,7 @@ hr{
 .content .card img{
     box-shadow:  0  0  60px var(--main-color);
     height: 200px;
-    width: 200px;
+    width: 215px;
     
     border-radius: 40px;
 }
