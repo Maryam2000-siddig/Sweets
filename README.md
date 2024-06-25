@@ -4,9 +4,11 @@ that displays items and prices,
 and also orders through it and 
 communicates with customers and candy bakery
 
+This project helps customers in the bookings and watch views and also provides delivery request after booking and demand
+
 Group
 
-Babiker al, Nour
+Babekir Elnour
 
 
 Maryam Siddig
